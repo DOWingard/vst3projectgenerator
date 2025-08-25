@@ -1,10 +1,7 @@
-# VST 3 VOID Project Generator 
-
-I forked the VST3 Project Generator at (https://github.com/steinbergmedia/vst3projectgenerator)  
-Windows+VSCode
+# VST3 Project Generator
 
 -----------------------------------------------------------------------------------------------------------------------
-## Features added - D.Wingard.08.24.2025
+## - Features added -
 
 * Project now builds with a .vscode folder with tasks.json to clean+compile+build and launch.json to debug (set up for ableton)
 * Sets up a bypass parameter and demonstrates the complete logic for adding more
