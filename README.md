@@ -51,7 +51,10 @@ to find the libraries in your CMakeLists.txt.
 
 yubico-piv-tool is a bit more tedious. You can download the windows binary directly (https://developers.yubico.com/yubico-piv-tool/Releases/) or follow the steps here (https://developers.yubico.com/yubico-piv-tool/).
 
+-----------------------------------------------------------------------------------------------------------------------
 
+## Original README
+-----------------------------------------------------------------------------------------------------------------------
 # VST 3 Project Generator
 
 
