@@ -3,7 +3,7 @@
 -----------------------------------------------------------------------------------------------------------------------
 ## - Features added -
 
-* Project now builds with a .vscode folder with tasks.json to clean+compile+build and launch.json to debug (set up for ableton)
+* Project now builds with a .vscode folder with tasks.json to clean+compile+build and launch.json to debug 
 * Sets up a bypass parameter and demonstrates the complete logic for adding more
 * Manages setting bus arangements manually and exposes params not available at initiate
 * Includes the following tools, *should* compile properly:
